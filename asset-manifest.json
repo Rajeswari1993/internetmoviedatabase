@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/internetmoviedatabase/static/css/main.31d6cfe0.css",
+    "main.js": "/internetmoviedatabase/static/js/main.4b008706.js",
+    "index.html": "/internetmoviedatabase/index.html",
+    "main.4b008706.js.map": "/internetmoviedatabase/static/js/main.4b008706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4b008706.js"
+  ]
+}
